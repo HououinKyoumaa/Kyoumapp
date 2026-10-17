@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
-  "url": "https://github.com/HououinKyoumaa/Kyoumapp/releases/download/v1.0.1/app-release.apk",
-  "release_notes": "Notas de Actualización:\n\n* Ahora puedes ver las portadas y descargar las imágenes\n* Puedes buscar animes tocando las etiquetas de géneros\n* Puedes seleccionar y copiar los títulos (normal y japonés)"
+  "version": "1.1.0",
+  "build_number": 3,
+  "url": "https://github.com/HououinKyoumaa/Kyoumapp/releases/download/v1.1.0/app-release.apk",
+  "release_notes": "Notas de Actualización v1.1.0: *Sincronización en la Nube con Google *Avisos automáticos de actualización para evitar errores *Comentarios de la comunidad integrados *Transmisión a Smart TV y Chromecast *Reproductor nativo optimizado *Sección +18 oculta por privacidad (toca 10 veces el logo en Ajustes para verla) *Limpieza automática al cerrar sesión"
 }
